@@ -1,0 +1,9 @@
+C:\Users\Mallory\Documents\Visual Studio 2013\CryptoGUI\CryptoGUI\bin\Debug\CryptoGUI.exe.config
+C:\Users\Mallory\Documents\Visual Studio 2013\CryptoGUI\CryptoGUI\bin\Debug\CryptoGUI.exe
+C:\Users\Mallory\Documents\Visual Studio 2013\CryptoGUI\CryptoGUI\bin\Debug\CryptoGUI.pdb
+C:\Users\Mallory\Documents\Visual Studio 2013\CryptoGUI\CryptoGUI\obj\Debug\CryptoGUI.GUIForm.resources
+C:\Users\Mallory\Documents\Visual Studio 2013\CryptoGUI\CryptoGUI\obj\Debug\CryptoGUI.Properties.Resources.resources
+C:\Users\Mallory\Documents\Visual Studio 2013\CryptoGUI\CryptoGUI\obj\Debug\CryptoGUI.csproj.GenerateResource.Cache
+C:\Users\Mallory\Documents\Visual Studio 2013\CryptoGUI\CryptoGUI\obj\Debug\CryptoGUI.exe
+C:\Users\Mallory\Documents\Visual Studio 2013\CryptoGUI\CryptoGUI\obj\Debug\CryptoGUI.pdb
+C:\Users\Mallory\Documents\Visual Studio 2013\CryptoGUI\CryptoGUI\obj\Debug\CryptoGUI.csprojResolveAssemblyReference.cache
